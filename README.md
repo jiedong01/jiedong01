@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jiedong01
-- 👀 I’m interested in learning how to use github copilot
-- 🌱 I’m currently learning how to use github copilot
+- 👀 I’m interested in learning 
+- 🌱 I’m currently learning ros2 
 - 💞️ I’m looking to collaborate on coding group
 - 📫 How to reach me :by reading and learning
 - 😄 Pronouns: c++,c

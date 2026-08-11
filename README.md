@@ -1,6 +1,6 @@
-👋 Hi, I’m @jiedong
-👀 I’m interested in learning cutting-edged technology.
-🌱 I’m currently learning ros2
-💞️ I’m looking to collaborate on coding group
-📫 How to reach me :by reading and learning
-😄 Pronouns: c++,c
+- 👋 Hi, I’m @jiedong
+- 👀 I’m interested in learning cutting‑edged technology.
+- 🌱 I’m currently learning ros2
+- 💞️ I’m looking to collaborate on coding group
+- 📫 How to reach me :by reading and learning
+- 😄 Pronouns: c++,c
